@@ -23,8 +23,12 @@ I am passionate about building scalable applications and learning new technologi
 
 ---
 
-### 📊 GitHub Stats
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvnx-debug&show_icons=true&theme=radical)
+### 🚀 Technologies I use
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvnx-debug&layout=compact&theme=radical)
