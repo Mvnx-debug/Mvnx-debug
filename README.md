@@ -42,5 +42,5 @@ I am passionate about building scalable applications and learning new technologi
   Projeto fullstack com **Node.js, Express e MongoDB** para gerenciar imóveis.
 
 ### 📫 How to reach me
-- 📧 Email: **seuemail@gmail.com**
+- 📧 Email: **marcosnalin3@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/marcos-vinicius-nalin-2a16361a2/
