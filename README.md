@@ -1,5 +1,5 @@
-# 👋 Hey! What's up?
-[Hey! I'm Marcos](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Marcos;Web+Developer;Always+learning+new+techs)](https://git.io/typing-svg) and I am a Web Developer from Brazil.  
+# 👋 Hey! What's up? 
+ [ Hey! I'm Marcos ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Marcos;Web+Developer;Always+learning+new+techs)] and I am a Web Developer from Brazil.  
 I work with technologies such as **JavaScript, Python, Node.js, React, and MongoDB**.  
 I am passionate about building scalable applications and learning new technologies every day.
 
