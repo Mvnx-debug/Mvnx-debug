@@ -19,8 +19,7 @@ I am passionate about building scalable applications and learning new technologi
 - **Backend:** Node.js, Express, FastAPI  
 - **Databases:** MongoDB, MySQL  
 - **Others:** Git, GitHub, Docker
----
-![Snake animation](https://github.com/Mvnx-debug/Mvnx-debug/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Mvnx-debug&color=blue&style=flat-square)
