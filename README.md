@@ -6,10 +6,15 @@ I am passionate about building scalable applications and learning new technologi
 ---
 
 ### 🚀 About me
-- 💻 Studying and building projects in **Web Development**
-- 🎯 Currently learning **React and Node.js**
-- 📚 Degree in **Analysis and Systems Development**
-- 🔎 Interested in **Fullstack Development** and **Freelance Projects**
+💻 Web Developer with a degree in Analysis and Systems Development (graduated in 2022)
+
+🎯 Currently deepening my knowledge in React and Node.js ecosystem
+
+🌱 Passionate about building scalable applications and learning new technologies
+
+🔎 Interested in Fullstack Development opportunities and Freelance Projects
+
+🏆 Always looking for challenges that allow me to grow as a developer
 
 ---
 
