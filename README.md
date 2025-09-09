@@ -1,6 +1,5 @@
 # 👋 Hey! What's up?
-
-My name is Marcos Nalin and I am a Web Developer from Brazil.  
+[Hey! I'm Marcos](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Marcos;Web+Developer;Always+learning+new+techs)](https://git.io/typing-svg) and I am a Web Developer from Brazil.  
 I work with technologies such as **JavaScript, Python, Node.js, React, and MongoDB**.  
 I am passionate about building scalable applications and learning new technologies every day.
 
@@ -22,13 +21,17 @@ I am passionate about building scalable applications and learning new technologi
 - **Others:** Git, GitHub, Docker  
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=Mvnx-debug&color=blue&style=flat-square)
+---
 
-### 🚀 Technologies I use
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
 
 ### 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvnx-debug&layout=compact&theme=radical)
