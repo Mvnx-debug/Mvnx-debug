@@ -1,5 +1,5 @@
 # 👋 Hey! What's up? 
- [ Hey! I'm Marcos ](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&center=true&vCenter=true&width=435&lines=Hey!+I'm+Marcos;Web+Developer;Always+learning+new+techs)] and I am a Web Developer from Brazil.  
+my name is Marcos and I am a Web Developer from Brazil.  
 I work with technologies such as **JavaScript, Python, Node.js, React, and MongoDB**.  
 I am passionate about building scalable applications and learning new technologies every day.
 
@@ -18,7 +18,9 @@ I am passionate about building scalable applications and learning new technologi
 - **Frontend:** HTML, CSS, Bootstrap, React  
 - **Backend:** Node.js, Express, FastAPI  
 - **Databases:** MongoDB, MySQL  
-- **Others:** Git, GitHub, Docker  
+- **Others:** Git, GitHub, Docker
+---
+![Snake animation](https://github.com/Mvnx-debug/Mvnx-debug/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Mvnx-debug&color=blue&style=flat-square)
