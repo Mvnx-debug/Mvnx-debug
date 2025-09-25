@@ -61,7 +61,7 @@ Personal landing page to showcase my projects and skills.
 ### 💈 [Barbershop Management System](https://github.com/Mvnx-debug/barbearia-test)
 Fullstack project with **React, FastAPI, SQLite, JWT authentication** for managing client appointments.
 
-### 🏠 [Real Estate App](https://github.com/Mvnx-debug/imobiliaria-app)
+### 🏠 [Real Estate App](https://github.com/Mvnx-debug/imobiliaria)
 Fullstack project with **Node.js, Express and MongoDB** for property management.
 
 ---
