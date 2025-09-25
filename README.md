@@ -1,7 +1,7 @@
 # 👋 Hey! What's up? 
 
 I'm **Marcos**, a Web Developer from Brazil.  
-I work with technologies such as **JavaScript, Python, Node.js, React, and MongoDB**.  
+I work with technologies such as **JavaScript, Python, Node.js, React, SQL and MongoDB**.  
 I'm passionate about building scalable applications and learning new technologies every day.
 
 ---
