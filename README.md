@@ -49,8 +49,8 @@ I am passionate about building scalable applications and learning new technologi
 - 🚀 [Meu Portfólio](https://github.com/Mvnx-debug/meu-portfolio)  
   Landing page pessoal para mostrar meus projetos e habilidades.
 
-- 🏢 [Tremax Website](https://github.com/Mvnx-debug/tremax-site)  
-  Site institucional moderno para apresentar a empresa de fios e cabos.
+- 🏢 [Barbearia](https://github.com/Mvnx-debug/barbearia-test)  
+  Projeto fullstack com **React, FastAPI, SQLite, JWT auth**, para genrenciar agendamentos dos clientes.
 
 - 🏠 [Imobiliária App](https://github.com/Mvnx-debug/imobiliaria-app)  
   Projeto fullstack com **Node.js, Express e MongoDB** para gerenciar imóveis.
