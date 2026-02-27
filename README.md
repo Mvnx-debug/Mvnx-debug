@@ -1,81 +1,86 @@
-# 👋 Hey! What's up? 
+# 👋 Hi, I'm Marcos! (aka Mvnx-debug)
 
-I'm **Marcos**, a Web Developer from Brazil.  
-I work with technologies such as **JavaScript, Python, TypeScript, Node.js, React, Nest.js, Next.js, Bun, Elysia, Postgres SQL and MongoDB**.  
-I'm passionate about building scalable applications and learning new technologies every day.
+I'm a Junior Full Stack Developer with a strong focus on backend development, passionate about building scalable and well-organized applications. I love transforming requirements into clean, efficient code and am always eager to learn new technologies and best practices.
 
----
-
-## 🚀 About Me
-💻 Web Developer with a degree in Analysis and Systems Development (graduated in 2022)  
-🎯 Currently deepening my knowledge in React and Node.js ecosystem  
-🌱 Passionate about building scalable applications and learning new technologies  
-🔎 Interested in Fullstack Development opportunities and Freelance Projects  
-🏆 Always looking for challenges that allow me to grow as a developer
+My professional experience involves working with modern JavaScript/TypeScript ecosystems, building REST APIs, integrating databases, and collaborating in team environments using Git and GitHub workflows.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Tools
 
-### **Languages:**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+Here are the main technologies I work with:
 
-### **Frontend:**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+**Backend Core**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
-### **Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=for-the-badge)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
-![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=for-the-badge)
-![ElysiaJS](https://img.shields.io/badge/-ElysiaJS-4B5563?logo=elysia&logoColor=white&style=for-the-badge)
+**Frameworks & Runtimes**
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-DF5A80?style=for-the-badge&logo=elysia&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Databases & ORMs**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/DrizzleORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-
-### **Databases:**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-
-### **Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🔥 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mvnx-debug&layout=compact&theme=radical)
+## 🚀 Featured Projects
 
-![Profile views](https://komarev.com/ghpvc/?username=Mvnx-debug&color=blue&style=flat-square)
+Here are some of the projects I've been working on:
 
----
+### [Pimbell Backend](https://github.com/Mvnx-debug/pimbell-backend)
+A backend application built with **Bun, TypeScript, and Elysia**. It's structured as a performant REST API with a focus on clean code and scalability. Features include route implementation, business rules, external integrations, and database management with **PostgreSQL** and **Docker** for environment standardization.
 
-## 📂 Featured Projects
+### [Auth Game](https://github.com/Mvnx-debug/auth-game)
+A backend project focused on implementing a complete user authentication and authorization flow. It covers login, registration, credential validation, and route protection using **JWT**. Built with **TypeScript** to understand the core concepts of API security.
 
-### 🚀 [Personal Portfolio](https://github.com/Mvnx-debug/meu-portfolio)
-Personal landing page to showcase my projects and skills.
+### [Imobiliaria](https://github.com/Mvnx-debug/imobiliaria)
+A web platform for property listings. This project focuses on organizing property data, implementing search filters, and creating an intuitive user interface. Built with **Node.js, Express, and MongoDB Atlas**, using **Mongoose** for data modeling.
 
-### 💈 [Barbershop Management System](https://github.com/Mvnx-debug/barbearia-test)
-Fullstack project with **React, FastAPI, SQLite, JWT authentication** for managing client appointments.
-
-### 🏠 [Real Estate App](https://github.com/Mvnx-debug/imobiliaria)
-Fullstack project with **Node.js, Express and MongoDB** for property management.
+### [Tremax Website](https://www.tremax.com.br)
+*(Commercial Project)* Developed a modern and responsive institutional website for an industrial company. I was involved in requirements gathering, page structuring, and implementing a product catalog with technical modals and a contact form integrated with WhatsApp. Built with **HTML, CSS, JavaScript, and PHP**.
 
 ---
 
-## 📫 How to Reach Me
-- 📧 **Email:** marcosnalin3@gmail.com
-- 💼 **LinkedIn:** [Marcos Vinicius Nalin](https://www.linkedin.com/in/marcos-vinicius-nalin-2a16361a2/)
-- 💻 **GitHub:** [Mvnx-debug](https://github.com/Mvnx-debug)
+## 💼 Professional Experience
+
+*   **FullStack Developer Jr. @ Pimbell** — Worked on both backend (NestJS, PostgreSQL) and frontend (Next.js) to build a subscription and plan management system, focusing on modular architecture and REST APIs.
+*   **Backend Developer Jr. @ Pimbell** — Developed a high-performance backend using Bun, Elysia, and TypeScript. Practiced professional Git workflows with branches, pull requests, and code reviews.
+*   **Frontend Developer (Freelance) @ Tremax** — Built a complete institutional website from scratch, ensuring mobile-first design, performance, and business alignment.
+
+---
+
+## 🌱 Currently Learning & Interests
+
+I'm always looking to deepen my knowledge in software architecture, system design, and backend best practices. I'm particularly interested in exploring more about cloud computing and advanced database modeling.
+
+---
+
+## 📫 Let's Connect!
+
+I'm open to collaborations, discussions about technology, and new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-nalin-2a16361a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mvnx-debug)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosnalin3@gmail.com)
+
+📧 **Email:** [marcosnalin3@gmail.com](mailto:marcosnalin3@gmail.com)
+
+---
+
+⭐️ From [Mvnx-debug](https://github.com/Mvnx-debug)
