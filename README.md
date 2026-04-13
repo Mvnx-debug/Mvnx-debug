@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marcos! (aka Mvnx-debug)
+# 👋 Hi, I'm Marcos! (Mvnx-debug)
 
 I'm a Junior Full Stack Developer with a strong focus on backend development, passionate about building scalable and well-organized applications. I love transforming requirements into clean, efficient code and am always eager to learn new technologies and best practices.
 
